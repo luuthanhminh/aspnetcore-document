@@ -1,4 +1,4 @@
-# aspnetcore-document
+# aspnetcore-documents
 
 - Multi-tenant middleware pipelines in ASP.NET Core
 http://benfoster.io/blog/aspnet-core-multi-tenant-middleware-pipelines
