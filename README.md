@@ -10,3 +10,5 @@ http://benfoster.io/blog/net-core-configuration-legacy-projects
 https://www.strathweb.com/2017/06/using-iactionconstraints-in-asp-net-core-mvc/
 - Custom Middleware In ASP.Net Core
 https://dotnetcoretutorials.com/2017/03/10/creating-custom-middleware-asp-net-core/
+- Using MessagePack with ASP.NET Core MVC
+https://www.strathweb.com/2017/06/using-messagepack-with-asp-net-core-mvc/
